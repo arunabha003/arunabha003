@@ -13,7 +13,7 @@ Past Experience:
 
 Projects:
 
-- Hackathon Finalist ([CrossLink Arbiter](https://github.com/foundryUp/CrossLink-Arbiter))
+- Chainlink x Chromium Hackathon Finalist ([CrossLink Arbiter](https://github.com/foundryUp/CrossLink-Arbiter))
 - ETHOnline 2025 ([PYPay](https://github.com/arunabha003/PYPay))
 - Mantle Hackathon 2026 ([Tranche Protocol](https://github.com/arunabha003/Tranche-Realfi))
 - Confidential RWA / x402 vault ([DeepSeal](https://github.com/arunabha003/DeepSeal))
