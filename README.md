@@ -9,7 +9,7 @@ Past Experience:
 - Open-Source Developer at [Galoy](https://galoy.io/) (Summer of Bitcoin)
 - Blockchain Developer Intern at [WebSoniX](https://websonix.world/)
 - Software Developer Intern at [Charak Center for Digital Healthcare](https://charakcenter.iiti.ac.in/)
-- Research Analyst Intern at Cognileap Eduventures (AVAP)
+- Research Analyst Intern at AVAP
 
 Projects:
 
