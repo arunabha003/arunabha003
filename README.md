@@ -7,10 +7,13 @@ Currently: Software Developer at [UniQLabs.ai](https://www.uniqlabs.ai/) — and
 Past Experience:
 
 - Open-Source Developer at [Galoy](https://galoy.io/) (Summer of Bitcoin)
+- Blockchain Developer Intern at [UniQLabs](https://www.uniqlabs.ai/)
 - Blockchain Developer Intern at [WebSoniX](https://websonix.world/)
 - Software Developer Intern at [Charak Center for Digital Healthcare](https://charakcenter.iiti.ac.in/)
 - Research Analyst Intern at AVAP
+- Blockchain lead at GDSC-IIT Indore [GDSC-IITI](https://github.com/DSC-IIT-Indore)
 
+  
 Projects:
 
 - Chainlink x Chromium Hackathon - Finalist ([CrossLink Arbiter](https://github.com/foundryUp/CrossLink-Arbiter))
