@@ -17,7 +17,7 @@ Past Experience:
 Projects:
 
 - Chainlink x Chromium Hackathon - Finalist ([CrossLink Arbiter](https://github.com/foundryUp/CrossLink-Arbiter))
-- Bharat Bricks Hackathon - Finalist ([UPI-Fraud-Detector](https://github.com/arunabha003/UPI-Fraud-Detector))
+- Bharat Bricks Hackathon (By Databricks) - Finalist ([UPI-Fraud-Detector](https://github.com/arunabha003/UPI-Fraud-Detector))
 - ETHOnline 2025 ([PYPay](https://github.com/arunabha003/PYPay))
 - ETHGlobal HackMoney 2026 ([SwarmRep](https://github.com/arunabha003/RepSwarm))
 - Chainlink Convergence Hackathon ([DeepSeal](https://github.com/arunabha003/DeepSeal))
