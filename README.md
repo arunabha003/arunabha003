@@ -13,15 +13,18 @@ Past Experience:
 
 Projects:
 
-- Chainlink x Chromium Hackathon Finalist ([CrossLink Arbiter](https://github.com/foundryUp/CrossLink-Arbiter))
+- Chainlink x Chromium Hackathon - Finalist ([CrossLink Arbiter](https://github.com/foundryUp/CrossLink-Arbiter))
+- Bharat Bricks Hackathon - Finalist ([UPI-Fraud-Detector](https://github.com/arunabha003/UPI-Fraud-Detector))
 - ETHOnline 2025 ([PYPay](https://github.com/arunabha003/PYPay))
+- ETHGlobal HackMoney 2026 ([SwarmRep](https://github.com/arunabha003/RepSwarm))
+- Chainlink Convergence Hackathon ([DeepSeal](https://github.com/arunabha003/DeepSeal))
 - Mantle Hackathon 2026 ([Tranche Protocol](https://github.com/arunabha003/Tranche-Realfi))
-- Confidential RWA / x402 vault ([DeepSeal](https://github.com/arunabha003/DeepSeal))
-- Modular ERC-4337 smart account ([Smart Accounts](https://github.com/arunabha003/Smart-Accounts))
+- Modular ERC-4337 smart accounts ([Smart Accounts](https://github.com/arunabha003/Smart-Accounts))
 
 Reach out to me!
 
 - X / Twitter: [@arunabha0003](https://x.com/arunabha0003)
 - Email: [arunabhadhal04@gmail.com](mailto:arunabhadhal04@gmail.com)
 - GitHub: [arunabha003](https://github.com/arunabha003)
-- Portfolio: [portfolio-website-arunabha003](https://portfolio-website-arunabha003.vercel.app/)
+- Portfolio: [arunabha003.tech](https://www.arunabha003.tech/)
+- LinkedIn : [arunabha003](https://www.linkedin.com/in/arunabha003/)
