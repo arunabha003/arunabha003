@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Arunabha Dhal. I build smart contracts and distributed systems, working across backend and infrastructure. I like study and audit DeFi protocols, and I'm currently exploring agentic infra.
+I'm Arunabha ! I build smart contracts and distributed systems, working across backend and infrastructure. I like to study and audit DeFi protocols, and I'm currently exploring agentic infra.
 
 Currently: Software Developer at [UniQLabs.ai](https://www.uniqlabs.ai/) — and building [Metrik](https://metrik.live).
 
